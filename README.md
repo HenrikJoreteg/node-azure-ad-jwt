@@ -1,3 +1,7 @@
+**NOTE**: This will be removed once https://github.com/dei79/node-azure-ad-jwt/issues/4 is resolved.
+
+It was forked simply so i could temporarily publish it as a scoped module to npm: @HenrikJoreteg/azure-ad-jwt
+
 # azure-ad-jwt
 This component makes it super simple to validate a JWT token issued by the Azure Active Directory. Currently the version 
 is not usinge caching this means the certificates will be downloaded from Mirosoft with every verification request. 

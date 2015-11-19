@@ -1,5 +1,5 @@
 {
-  "name": "azure-ad-jwt",
+  "name": "@HenrikJoreteg/azure-ad-jwt",
   "description": "An Azure Active Directory Token Validation component for node.js",
   "version": "0.1.1",
   "author": {
